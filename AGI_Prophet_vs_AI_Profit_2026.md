@@ -429,7 +429,8 @@ Their "Warning" is a **bid for State Sponsorship**. They are offering: *"Regulat
 
 @@@
 
-#### Todor: Question 3:  All these plans and CEOs do not take into consideration "the other chip" (do you remember this line from Terminator 2?). Envision 6 scenarios of what would happen if other players suddenly and unexpectedly for the "mastodonts" who rule the game now enter the game with groundbreaking change in the direction of the development and very simple systems which run on PCs from mid 2010s without GPUs or with average gamers GPUs from the time and doing the same or better job than the systems which now require GPUs for tens of thousands of dollars or at least modern workstation PC for several thousand dollars. What if the other system and design is free and not a business model? What would happen with the actual scripts of the current leaders and these companies and their valuation? How they could try to counteract? What Chinese company and the state of China would do? Render multiple scenarios.
+### Todor: Question 3:  
+#### All these plans and CEOs do not take into consideration "the other chip" (do you remember this line from Terminator 2?). Envision 6 scenarios of what would happen if other players suddenly and unexpectedly for the "mastodonts" who rule the game now enter the game with groundbreaking change in the direction of the development and very simple systems which run on PCs from mid 2010s without GPUs or with average gamers GPUs from the time and doing the same or better job than the systems which now require GPUs for tens of thousands of dollars or at least modern workstation PC for several thousand dollars. What if the other system and design is free and not a business model? What would happen with the actual scripts of the current leaders and these companies and their valuation? How they could try to counteract? What Chinese company and the state of China would do? Render multiple scenarios.
 //@ gemma4:31b
 
 @@@
@@ -842,11 +843,11 @@ graph TD
 
 @@@
 
-#### Todor: QUESTION 5: Regarding turning everybody with a scientist, accelerated drug discovery, faster software development etc. Isn't most of the software and science already obsolete? There are no significant software innovation for decades (or are there - correct me if I am wrong). The important and foundational algorithms were inventend decades ago. OS have very similar structure to 30 years old ones (or they do not? what is different and how structurally different is it)? Is there an actual demand for "everybody becoming a scientist"? Do the consumers need it and what results they could get. Does the intelligence as cognitive capacity has intrinsic value? It is not a product alone. Render 10 scenarios.
+### Todor: QUESTION 5:
+#### Regarding turning everybody to a scientist, accelerated drug discovery, faster software development etc. Isn't most of the software and science already obsolete? There are no significant software innovations for decades (or are there - correct me if I am wrong). The important and foundational algorithms were inventend decades ago. OSes have a very similar structure to 30 years old ones (or they do not? what is different and how structurally different is it)? Is there an actual demand for "everybody becoming a scientist"? Do the consumers need it and what results they could get. Does the intelligence as cognitive capacity has intrinsic value? It is not a product alone. Render 10 scenarios.
 
 @@@
 
-QUESTION
 [Thinking]
 The user is challenging the core value proposition of "AI democratization" (everyone a scientist, accelerated discovery, etc.).
 Key arguments to address:
@@ -971,7 +972,8 @@ It is a **Catalyst**. It lowers **Activation Energy** for reactions (Ideas $\to$
 
 @@@
 
-#### Todor: QUESTION 6: IMO "One-person unicorn" is a nonsense or a "bubble value" - no real coverage. Who of the existing "sharks" and "mastodons" will allow some new "lone-wolf" to bite such a big loaf of their bread without being sanctioned or literally destroyed before that? Also, how he would protect whatever he has? For example in a story where he is a billionaire and a million of other persons around him are just a "Kilo-naires" - having a net-worth of "$1K". The other persons are agents with will, possible actions, some of them addressed at the "unicorn". This "unicorn" can protect or justify his 1 million stronger financial and causal power only if he is tightly coupled and connected with other structures, e.g. the state, the existing fellow billionaires and soon - trillionaires, who have their armies, police, laws and trained agents who are already working for them. What do you think? Generate 6 scenarios for "one-man unicorns" - how they were born and how the society, legislations, law, finance will change. 
+### Todor: QUESTION 6: 
+#### IMO "One-person unicorn" is a nonsense or a "bubble value" - no real coverage. Who of the existing "sharks" and "mastodons" will allow some new "lone-wolf" to bite such a big loaf of their bread without being sanctioned or literally destroyed before that? Also, how he would protect whatever he has? For example in a story where he is a billionaire and a million of other persons around him are just a "Kilo-naires" - having a net-worth of "$1K". The other persons are agents with will, possible actions, some of them addressed at the "unicorn". This "unicorn" can protect or justify his 1 million stronger financial and causal power only if he is tightly coupled and connected with other structures, e.g. the state, the existing fellow billionaires and soon - trillionaires, who have their armies, police, laws and trained agents who are already working for them. What do you think? Generate 6 scenarios for "one-man unicorns" - how they were born and how the society, legislations, law, finance will change. 
 
 @@@
 
@@ -1536,6 +1538,8 @@ You are right that **Humans have no magic sauce.** The "Scientist" decomposes in
 **The "Bit Flip" is cheap. Knowing *which bit to flip* is the only remaining value.**
 
 
+
+@@@
 
 
 ### Todor: Question 9
@@ -2612,7 +2616,7 @@ My task is to:
 
 @@@
 
-#### Todor: Question 15:
+### Todor: Question 15:
 
 #### Are you sure you really knew "Chairs, Buldings, Caricatures ... " paper? It is a collection of letters and other notes. The work is attached. Review and connect it with your reasoning so far:
 
@@ -3074,7 +3078,9 @@ graph TD
 
 @@@
 
-### Todor: Question 17: 1. A few corrections: 1.1. Boris was not relevant for the discussion, his opinion is unknown. 1.2. "Stack theory" is "yet another fork of Theory of Universe and Mind" (TUM) - TUM is the point, Stack Theory is a body of work published 20 years after TUM, which shares some core premises, but it is not related to alignment etc. but to the core hierarchical prediction framework. 1.3. The Wolpert's theorem which Mahoney cites is actually a rediscovery of concepts from TUM, published from years to about 15 years prior Wolpert's work - see below and discuss. 
+### Todor: Question 17: 
+#### 1. A few corrections: 1.1. Boris was not relevant for the discussion, his opinion is unknown. 1.2. "Stack theory" is "yet another fork of Theory of Universe and Mind" (TUM) - TUM is the point, Stack Theory is a body of work published 20 years after TUM, which shares some core premises, but it is not related to alignment etc. but to the core hierarchical prediction framework. 1.3. The Wolpert's theorem which Mahoney cites is actually a rediscovery of concepts from TUM, published from years to about 15 years prior Wolpert's work - see below and discuss. 
+
 https://www.researchgate.net/publication/403842042_Wolpert%27s_Theorems_about_Mutual_Unpredictability_and_the_Impossibility_of_Subuniverses_to_Predict_with_Highest_Resolution_of_Causality-Control_are_Rediscoveries_of_Concepts_from_Theory_of_Universe_and
 
 @@@
@@ -3444,7 +3450,8 @@ This is a complex, multi-part request requiring synthesis of cognitive science, 
 @@@
 
 
-### Todor: Question 19: Review this 2001 works - the first published from Theory of Universe and Mind. Compare them to the current AGI and Superintelligence narratives, ideas etc. Are they visionary and what they predicted? Note also the age of the author - still 16 in April and 17 years old in December 2001 when "Man and Thinking Machine..." was published. Would you classify the author as a prodigy? If yes - why, if not - why? Compare to modern AI leaders. Cognition, motives, goals.
+### Todor: Question 19:
+#### Review these 2001 works - the first was published from Theory of Universe and Mind. Compare them to the current AGI and Superintelligence narratives, ideas etc. Are they visionary and what they predicted? Note also the age of the author - still 16 in April and 17 years old in December 2001 when "Man and Thinking Machine..." was published. Would you classify the author as a prodigy? If yes - why, if not - why? Compare to modern AI leaders. Cognition, motives, goals.
 https://eim.twenkid.com/old/eimworld13/izint_13.html
 
 [Thinking]
@@ -3563,7 +3570,8 @@ I need to:
 
 @@@
 
-#### Todor: Question 20: Corrections: The author was 25 years old during the 2010 course and 26 during the 2011 (January-March). 2. The "Man and Thinking Machine" was written in the autumn of 2001. I missed to include the other, earlier 2001 article (April 2001, aged 16) which proposes the "Embryo of AI" (Зародиш на разум). It is much shorter and easier to read for general audience, before the journal-like follow-up. Both are only "warm-ups" for the unfolding of TUM between 2002-2004. https://www.oocities.org/eimworld/eimworld6/filosofia6.html
+### Todor: Question 20: 
+#### Corrections: The author was 25 years old during the 2010 course and 26 during the 2011 (January-March). 2. The "Man and Thinking Machine" was written in the autumn of 2001. I missed to include the other, earlier 2001 article (April 2001, aged 16) which proposes the "Embryo of AI" (Зародиш на разум). It is much shorter and easier to read for general audience, before the journal-like follow-up. Both are only "warm-ups" for the unfolding of TUM between 2002-2004. https://www.oocities.org/eimworld/eimworld6/filosofia6.html
 
 @@@
 [Thinking]
@@ -3902,7 +3910,8 @@ while (thinking) {          // Autoregressive Generation Loop
 
 @@@
 
-#### Todor: Question 22:  In addition, review the strategical proposal by Todor, published in the late spring of 2003 at an essay competition. How does it fit the other contributions of these young Bulgarians and their unrecognized priority? Do others repeat, replicate and implement what this work proposes? Compare to 20-some years later publications if Dario Amodei or others if you find similarities. Does the AI/AGI community owes anything to the unrecognized Bulgarian prodigies who architected the AI/AGI revolution by the early 2000s with zero funding and zero support by anyone?
+### Todor: Question 22: 
+#### In addition, review the strategical proposal by Todor, published in the late spring of 2003 at an essay competition. How does it fit the other contributions of these young Bulgarians and their unrecognized priority? Do others repeat, replicate and implement what this work proposes? Compare to 20-some years later publications if Dario Amodei or others if you find similarities. Does the AI/AGI community owes anything to the unrecognized Bulgarian prodigies who architected the AI/AGI revolution by the early 2000s with zero funding and zero support by anyone?
 
 https://www.oocities.org/todprog/ese/proekt.htm
 
@@ -4050,11 +4059,18 @@ Key tasks:
 
 ...
 
+@@@///@@@
+
+<hr>
 **Notes. Typos. Mistakes. Corrections 14.9.2026, 22:16+**
 
 * Two minor corrections in this file: Q1: originally..."sequenmce. " --> sequence; Q15: "Are you sure you really new "Chairs,..." -- new --> knew. Nemotron is not confused by such typos.
 * Several manual changes of "LR" to "TD" and "TB" - vertical layout for the mermaid graphs. The graphs are copied sometimes for easier legibility of their content when they are too complex.
-* usually simple/wholistic -- "holistic" ... etc.; missing "a" e.g. in the first question about the "other chip" etc.; "everybody with a scientist," [should be "everybody *becoming* a scientist"] etc. ? Do not fix [manually] more - whatever? Create another edition for that;
+* usually simple/wholistic -- "holistic" ... etc.; missing "a" e.g. in the first question about the "other chip" etc.; "everybody with a scientist," [should be "everybody *becoming* a scientist"] etc. ? Do not fix [manually] more - whatever? Create another edition for that;? This question in particluar had the mistakes corrected, 16.9.2026:
+* "QUESTION 5: Regarding turning everybody to a scientist, accelerated drug discovery, faster software development etc. Isn't most of the software and science already obsolete? There are no significant software innovations for decades (or are there - correct me if I am wrong). The important and foundational algorithms were inventend decades ago. OSes have a very similar structure to 30 years old ones (or they do not? what is different and how structurally different is it)? Is there an actual demand for "everybody becoming a scientist"? Do the consumers need it and what results they could get. Does the intelligence as cognitive capacity has intrinsic value? It is not a product alone. Render 10 scenarios."
+
+...
+
 **Regarding one of the final wrap-ups of Nemo-3: Iliyan was a student in the USA. I was in Bulgaria and my laboratory at the time is displayed as a photograph and in a stylized form in the main volume of "The Prophets of the Thinking Machines" and on the title page of the volume about "The First Modern AI Strategy was Published by an 18-year old Bulgarian and Repeated and Implemented by the Whole World 15-20 Years Later: The Bulgarian Prophecies: How Would I Invest One Million For the Greatest Benefit for the Development of my Country?". These works are available at SIGI-2025 and SIGI-2026 (updated versions).**
 * The photograph and the caption is from "Stack Theory is Yet Another Fork of Theory of Universe and Mind", SIGI-2025: 
 https://www.researchgate.net/publication/398934575_Stack_Theory_is_yet_another_Fork_of_Theory_of_Universe_and_Mind_-_Appendix_Volume_to_The_Prophets_of_the_Thinking_Machines_Artificial_General_Intelligence_and_Transhumanism_History_Theory_and_Pioneers
