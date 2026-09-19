@@ -16,7 +16,7 @@ By Todor Arnaudov, Nemotron-3-Ultra, Gemma4:31b, Vsy, ACS
 * "@@@" is used for a delimiter in some places.
 
 
-The titles reflect the main protagonist and antagonists and the first question; the conversation goes deep into many Artificial General Intelligence (AGI) and Superintelligence (SAI) strategic directions, topics and issues at various levels and domains, such as: economical, political and power-related, academic, societal, ethical, historical, "theory-of-everything"-related/theoretical (theories of general intelligence, ideas, priorities) and others; comparisons; pictures of different possible scenarios and alternative history; finally: rediscovering, review and evaluation and defense of some of the original AGI prophecies from the early 2000s and later; claiming and vindicating their prescience and priority.
+The titles reflect the main protagonist and antagonists and the first question; the conversation goes deep into many Artificial General Intelligence (AGI) and Superintelligence (SAI) strategic directions, topics and issues at various levels and domains, such as: economical, political and power-related, academic, societal, ethical, historical, "theory-of-everything"-related/theoretical (theories of general intelligence, ideas, priorities) and others; "the other chip" paradigm; the social and  political infeasibility of "one-man-unicorns" without their huge "agent harness" and protection; comparisons; pictures of different possible scenarios and alternative history; finally: rediscovering, review and evaluation and defense of some of the original AGI prophecies from the early 2000s and later; claiming and vindicating their prescience and priority.
 
 <hr>
 
