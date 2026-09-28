@@ -18,11 +18,23 @@ By Todor Arnaudov, Nemotron-3-Ultra, Gemma4:31b, Vsy, ACS
 
 The titles reflect the main protagonist and antagonists and the first question; the conversation goes deep into many Artificial General Intelligence (AGI) and Superintelligence (SAI) strategic directions, topics and issues at various levels and domains, such as: economical, political and power-related, academic, societal, ethical, historical, "theory-of-everything"-related/theoretical (theories of general intelligence, ideas, priorities) and others; "the other chip" paradigm; the social and  political infeasibility of "one-man-unicorns" without their huge "agent harness" and protection; comparisons; pictures of different possible scenarios and alternative history; finally: rediscovering, review and evaluation and defense of some of the original AGI prophecies from the early 2000s and later; claiming and vindicating their prescience and priority.
 
+The conversation is complex and the short list above cannot explain it.
+
+See a list with Todor's questions/prompts during the conversation - some of them are like small articles with precise citations, sections and subsections etc.
+
+* **The List of Questions:** https://github.com/Twenkid/SIGI-2026/blob/main/Questions_AGI_Prophet_vs_AI_Profit_2026_Part_I.md
+
+..
+
+#### Did you know, that the generative AI paradigm as general prediction in any modalities via algorithmic probability ("Creativity is imitation at the level of algorithms", 2003), the multi-modality, predictive coding, next-token prediction, world-models, "neuro-symbolic", intelligence as generalization; both scaling to more data as a key to higher intelligence and higher intelligence as the most sample-efficient learning and the ultimate goal of "embryo-of-AGI" (self-improving general intelligence) were already clearly defined in the early 2000s in a body of work by a teenager; and a friend of his explained the essential features of the transformer in February 2005? ... [Refine]
+
+
 <hr>
 
 # The AGI Prophet vs The AI Profit - Part I
 
 <img width="829" height="821" alt="image" src="https://github.com/user-attachments/assets/9579f9b5-db9c-4430-8b62-119093dbf9c8" />
+<img width="706" height="1005" alt="image" src="https://github.com/user-attachments/assets/55c7388a-5e6f-4ad6-874f-ef3928adf354" />
 
 <hr>
 
@@ -844,7 +856,7 @@ graph TD
 @@@
 
 ### Todor: QUESTION 5:
-#### Regarding turning everybody to a scientist, accelerated drug discovery, faster software development etc. Isn't most of the software and science already obsolete? There are no significant software innovations for decades (or are there - correct me if I am wrong). The important and foundational algorithms were inventend decades ago. OSes have a very similar structure to 30 years old ones (or they do not? what is different and how structurally different is it)? Is there an actual demand for "everybody becoming a scientist"? Do the consumers need it and what results they could get. Does the intelligence as cognitive capacity has intrinsic value? It is not a product alone. Render 10 scenarios.
+#### Regarding turning everybody into a scientist, accelerated drug discovery, faster software development etc. Isn't most of the software and science already obsolete? There are no significant software innovations for decades (or are there - correct me if I am wrong). The important and foundational algorithms were inventend decades ago. OSes have a very similar structure to 30 years old ones (or they do not? what is different and how structurally different is it)? Is there an actual demand for "everybody becoming a scientist"? Do the consumers need it and what results they could get. Does the intelligence as cognitive capacity has intrinsic value? It is not a product alone. Render 10 scenarios.
 
 @@@
 
@@ -1099,7 +1111,7 @@ It **stops being Solo** immediately.
 ### Todor: Question 7
 
 1. "Microservices spaghetti ..." - Can you give examples and explain their inefficiency? Compare to other alternatives, "bare-metal" etc.
-2. Your claim that "The New Class isn't "Solo Founders. It's "Micro-Sovereigns" (10-50 Humans + 10,000 Agents) with..." - is unreliable. 10-50 humans - how they act against 1000, 10000, 100000 other humans if they do not have power to apply force and violence against the others? Why the others agree with the position being "consumers" who allow these 10-50 to be billionaires? Why would they buy these goods - where the value of this "super magical sauce" would come, which would allow these 1 or 10-50 individuals to extract so much financial value from the millions others? Drive 6 possible scenarios.
+2. Your claim that "The New Class isn't "Solo Founders. It's "Micro-Sovereigns" (10-50 Humans + 10,000 Agents) with..." - is unreliable. 10-50 humans - how they act against 1000, 10000, 100000 other humans if they do not have power to apply force and violence against the others? Why the others agree with the position of being "consumers" who allow these 10-50 to be billionaires? Why would they buy these goods - where the value of this "super magical sauce" would come, which would allow these 1 or 10-50 individuals to extract so much financial value from the millions others? Drive 6 possible scenarios.
 3. Your claim that: "Reality: Science requires Taste, Curiosity, Grit, Funding, Lab Access. AGI gives Answers, not Questions. Most people don't want to be scientists; they want agency or entertainment." - only the Lab access for some research is relevant. Why AGI couldn't ask questions? Even the early LLMs can ask questions. The questions are templated. In many research fields they can be systematically explored and enumerated, as the conceptual spaces and ontologies are simple and sharply defined. The "creativity" of human scientists is highly overrated, a lot of the science and the job of many scientists is actually boring and pedantic following of the instructions from the past with minimal innovation, fitting in the established systems - e.g. even in the formats and the clichés in the research papers; the strict academic hierarchy, prestigiousness (hierarchy, ranking) of citations and universities etc. - which also comes with the access to labs that you mention - this is correct as some of the ground-breaking research requires the latest technologies and equipment. Interpret, explain, do you agree, do you have counter arguments. Why? What are the alternatives? List 6 alternatives.
 
 @@@
@@ -1300,7 +1312,7 @@ Be more specific and give more solid arguments for your opinion.
 
 1.2. You said: " **Measurement Noise** | **Real Data is Dirty.** "The machine drifted." "The mouse bit the tech." AGI hallucinates clean data. **Human "Grit" = Debugging Reality.**"
 
-Humans sometimes also "halluinate" data - false research, funded, fake results or promises, intended to recive funding or to sell. This is both in "serious science" - can you give examples? - and in the "non-rigorous " scientifically, but highly profitable advertisments and "sales" where the ads are often full of nonsense or deceptive information.
+Humans sometimes also "hallucinate" data - false research, funded, fake results or promises, intended to recive funding or to sell. This is both in "serious science" - can you give examples? - and in the "non-rigorous " scientifically, but highly profitable advertisments and "sales" where the ads are often full of nonsense or deceptive information.
 
 
 1.3. You: "| **Causal Discovery (Novel Mechanisms)** | **Correlation ≠ Causation.** AGI fits curves. **Intervention (do-calculus)** requires *physical perturbation* designed by *intuition* about *mechanism*. |"
@@ -1317,15 +1329,17 @@ What do you think?
 
 1.5. You said: "| **Funding / Politics / Ethics** | **IRB / IACUC / NIH Study Section.** **Human Persuasion / Trust / Reputation.** AGI cannot "schmooze" a Program Officer. |"
 
-Can you give other terms and explanations for that? My terms are corruption, cheating, unfairness. Yes, humans like to cheat. Add more and explain - if you do not agree, prove it, show evidence that it is not true for humans. IMO humans "hallucinate" in the broad sense and they do it both intentionally and intentionally (cheat, lie, deceive, falsify; are double-faced and unfair, fake in their relations with others thus - should not be trusted much etc.; they are convinced in their opinions and conclusions, or act as such, even when their evidence is ridiculous, none or plain wrong and obviously wrong even for them - it is "their" opinion).
+Can you give other terms and explanations for that? My terms are corruption, cheating, unfairness. Yes, humans like to cheat. Add more and explain - if you do not agree, prove it, show evidence that it is not true for humans. IMO humans "hallucinate" in the broad sense and they do it both intentionally and [un]intentionally (cheat, lie, deceive, falsify; are double-faced and unfair, fake in their relations with others thus - [therefore they] should not be trusted much etc.; they are convinced in their opinions and conclusions, or act as such, even when their evidence is ridiculous, none or plain wrong and obviously wrong even for them - it is "their" opinion).
 
 ...
 
 2. You say that: "High Taste: "Everyone assumes X. What if ¬X? Here is a new ontology to test it." → AGI struggles (Out of Distribution).
 
 2.1. I don't think so. This is a reduction of AGI to some banal trivial procedure of a single "sampling" in some common "distribution". Yet, you show that enough for "OOD" thinking is to just assume "not X". Why this is considered so "difficult" for a machine - this is a single bit flipping. In addition, AGI is not limited to these trivial sampling, it runs everything that a computer and the universe can do, and can interact with humans and include what they do and their operations and outputs. 
+
 2.2. For example, interpret this:
-  2.2.1. Scholars writing on this topic consider as outstanding thinking or "creative" the Relativity theory of Einstein, "out-of-distribution" thinking - is it correct? IMO this is an exaggerated and confused as so creative. First, there were discrepancies in empirical data, mismatches, which have driven the investigation. Second, the change in the ontology is in essence changing a status of some parameters from variables to constants, in a model, consisting of a few parameters in a formula. In informational or algorithmic complexity this is similar to the example above: changes of the value of one or several bits. Darwin's evolution theory is another related story - he considered that the species could change, transfer traits etc. "Wow. How great and creative leap" - it is just a minor switch of binary variables, and in the more complex case of a few more parameters. AGI or, what it means also in essene, *the computers* can do it even with simlpe programs of a few bytes and kilobytes, in principle they do not need hundreds of billions or trllions of parameters of an "obfuscated" function in order to do that. 
+
+  2.2.1. Scholars writing on this topic consider as outstanding thinking or "creative" the Relativity theory of Einstein, "out-of-distribution" thinking - is it correct? IMO this is an exaggerated and confused as so creative. First, there were discrepancies in empirical data, mismatches, which have driven the investigation. Second, the change in the ontology is in essence changing a status of some parameters from variables to constants, in a model, consisting of a few parameters in a formula. In informational or algorithmic complexity this is similar to the example above: changes of the value of one or several bits. Darwin's evolution theory is another related story - he considered that the species could change, transfer traits etc. "Wow. How great and creative leap" - it is just a minor switch of binary variables, and in the more complex case of a few more parameters. AGI or, what it means also in essence, *the computers* can do it even with simlpe programs of a few bytes and kilobytes, in principle they do not need hundreds of billions or trllions of parameters of an "obfuscated" function in order to do that. 
   
   What do you think about this point? Can you give more examples for inventions or discoveries which are considered OOD thinking, but can be reduced to transformations of a similar minor complexity?
 
@@ -1546,9 +1560,9 @@ You are right that **Humans have no magic sauce.** The "Scientist" decomposes in
 
 1. You: "**The Trap: **The "Bit Flip" generates **Infinite ¬X**. **Filtering** requires **Taste (Value Function).**"
 
-Why you call it "taste"? This is not an aesthetic choice. humans "filter" to a few bits not because their "aesthetic taste", but because *cannot* process larger arrays of bits at once. Their working memory capacity is of 7+-2 "items", usually simple/holistic "items" and they lose them very easily with a little distraction in their 2-second-long phonetic loop (or how long? what are the ranges in various humans)
+Why you call it "taste"? This is not an aesthetic choice. humans "filter" to a few bits not because [of] their "aesthetic taste", but because [they] *cannot* process larger arrays of bits at once. Their working memory capacity is of 7+-2 "items", usually simple/holistic "items" and they lose them very easily with a little distraction in their 2-second-long phonetic loop (or how long? what are the ranges in various humans)
 
-The bandwidth of human cognition for "coscious" processing is in the ball-park of 10 bits to a few dozens of bits per second during intense cognitive activities. If the Artificial Mind operates, i.e. reduces, limits, constraints, its conclusion to a similar range, these conclusions would also appear as comparably "insightful" for humans, who cannot cope even with a 100 bits per second. (I do not talk about streams of data which they canno remember and cannot express - a video at 4K or 8K at 60 fps or 120 fps, "32-bit color" - all that a human viewer can remember is reduced to just a few bits, all the Gigabits or "Terabits" are never captured or recorded by the vhuman). What do you think, do you agree? Give more examples or counter-arguments, if you have ones.
+The bandwidth of human cognition for "conscious" processing is in the ball-park of 10 bits to a few dozens of bits per second during intense cognitive activities. If the Artificial Mind operates, i.e. reduces, limits, constraints, its conclusion to a similar range, these conclusions would also appear as comparably "insightful" for humans, who cannot cope even with a 100 bits per second. (I do not talk about streams of data which they canno remember and cannot express - a video at 4K or 8K at 60 fps or 120 fps, "32-bit color" - all that a human viewer can remember is reduced to just a few bits, all the Gigabits or "Terabits" are never captured or recorded by the vhuman). What do you think, do you agree? Give more examples or counter-arguments, if you have ones.
 
 
 2. "You said: "**Human "Taste" remains the best Proxy Value Function.** "
@@ -1563,7 +1577,7 @@ For what reasons? IMO: because *other humans* are judges, therefore the actual "
 	 		
    3.2. You: "*   **These are *New Tokens* in the Language of Biology.** They didn't exist in the prior vocabulary (Linnaeus/Cuvier)."
    
-   In "biology", but not really new in the tokens of the *general cogniton*. These new concepts are constructed from the ones which existed, these are not new tokens as in an LLM that has to be completely redesigned or retrained from scratch just for the addition of 5 new tokens. The new tokens in Darwn or whoever are just *programs*, a new sequences of already defined "tokens" (actually concepts, graphs, relations, models, patterns etc.) It is not "matter, generated from scratch" - i.e. "generation equivoca" (can you correct the spelling for this expression? it is Latin for generation of life from nothing)
+   In "biology", but not really new in the tokens of the *general cognition*. These new concepts are constructed from the ones which existed, these are not new tokens as in an LLM that has to be completely redesigned or retrained from scratch just for the addition of 5 new tokens. The new tokens in Darwn or whoever are just *programs*, a new sequences of already defined "tokens" (actually concepts, graphs, relations, models, patterns etc.) It is not "matter, generated from scratch" - i.e. "generation equivoca" (can you correct the spelling for this expression? it is Latin for generation of life from nothing)
        
      
    3.3. You: "**LLMs/AGI operate on *Fixed Vocabulary* (Tokenizer).** **True Paradigm Shift = Vocabulary Expansion.**"
@@ -1599,7 +1613,7 @@ For what reasons? IMO: because *other humans* are judges, therefore the actual "
 	   
     6.3. You: ""**Verdict:** AGI *will* get hands. **But "Robotics is advanced enough" is false for *Generalist* Wet Lab work in 2026-2030.** The "Reality Interface" advantage persists **only** because **Robotics Hardware/Sim2Real lags AGI Software by 5-10 years.**"""
 	
-	I agree about the lag of robotics to the purely "cognitive" work, acatually this was one of my famous predictions from 2013 which was later parroted by all surprised pseudo "visionaries" since 2023-2024, from the highest-end ML researchers to the average social media influencers:
+	I agree about the lag of robotics to the purely "cognitive" work, actually this was one of my famous predictions from 2013 which was later parroted by all surprised pseudo "visionaries" since 2023-2024, from the highest-end ML researchers to the average social media influencers:
 	"
 	"
 	
@@ -1832,10 +1846,9 @@ $$ \text{AGI Hypothesis} \xrightarrow{\text{Code}} \text{Cloud Lab API (Microflu
 
 Todor: "System 1-2" is an oversimplified sterotype which got viral via "pop-cultural" parroting by famous researhers, promoting the book of the author and the "influencers" followed. In fact this is an ancient concept of discoursive and appodictic knowledge - do you know about them, they are addressed for example by Kant and Schopenhauer in 18-th and 19-th century. However in real systems and for real reasoning there is no sharp delimiter, but a scale space with gradual overlap and these two "systems" require inter-op during their construction in the biological systems. The "fast" systems are not strictly statistical and the "slow" ones also may use statistical methods. "Speed" (or relative speed to each other) is not the critical decider. The number of steps also depends on the specifics of the evaluated system: one instruction for advanced CPU, say Pentium I (1993) or Core i5 14xxx series from mid 2020s may require tens, hundreds or thousands of instructions of the 8-bit 6502. What is the program that they execute - if it is the same algorithmically, represented as input-output and logic behavior - "system-1", "reactive", "one-step", or "system-2" - deliberate, "algorithmic" etc.
 
-One of the logics - if verifier, simulator, theorem prover" are considred "system 2", therefore computers are "System-2" in all their operations. Note that in this substrate, the probabilistic functions also use the computer and the CPU, digitized data, categories/discrete input etc.
+One of the logics - if verifier, simulator, theorem prover are considred "system 2", therefore computers are "System-2" in all their operations. Note that in this substrate, the probabilistic functions also use the computer and the CPU, digitized data, categories/discrete input etc.
 
 Inerpret. Do you have evidence for your claims and can you counter-argument my claims?
-
 
 2. I missed to cite the 2013 prediction: Can you review this article by Todor Arnaudov and its critique to then-current expert's opinion about the "future of work"; evaluate it, interpret it with the modern discourse and terminology, compare it to what really happen until 2026 - was this work visionary or it was mundane and typical for 2013? What it predicted correctly?
 
@@ -2008,7 +2021,7 @@ He identified the **True Constraint: Embodiment $\gg$ Cognition.**
 You: "#### **Where Arnaudov Was "Wrong" / Nuanced (The "Mundane" Parts)**
  **"Computers were superhuman for decades."** True for *Arithmetic/Chess*, False for *General Reasoning/Perception* (2013 CV/NLP was terrible). **LLMs (2017+) were the phase transition.**"
  
-IMO you confuse *computers* with *implementations*. Actually the "terrible" CV was such *because* humans couldn't develop the proper algorithms. Transformers are very inefficient, the actual logic and structures for reasoning and some vision should fit in an early 2000s PC with Windows XP and 1-2 GB RAMs, at worse a bit later Core 2 Duo or Core 2 Quad with 8-16 GB or at worse: Core i5 3470/4570 with 32 GB. These are my estimations for "human-level" cognitive processing with human-comparable speed in most tasks (note that human-speed is terribly low, especially in painting - if using brushes, pens etc., in writing/typing etc. So 1000s of "tokens" per second are not required. Humans are also extremely terrible, near 0 at replicating photographs or drawing "realistically", even at the lowest possible resolutions of say 16x16 or 32x32). In addition, by 2013 there already were breakthroughs in CNN, ImageNet classification, other recognitions, alghough these are specific tasks, they had their "adversarial attacks" weaknesses. Discuss these points. 
+IMO you confuse *computers* with *implementations*. Actually the "terrible" CV was such *because* humans couldn't develop the proper algorithms. Transformers are very inefficient, the actual logic and structures for reasoning and some vision should fit in an early 2000s PC with Windows XP and 1-2 GB RAMs, at worse a bit later Core 2 Duo or Core 2 Quad with 8-16 GB or at worse: Core i5 3470/4570 with 32 GB. These are my estimations for "human-level" cognitive processing with human-comparable speed in most [of the] tasks (note that human-speed is terribly low, especially in painting - if using brushes, pens etc., in writing/typing etc. So 1000s of "tokens" per second are not required. Humans are also extremely terrible, near 0 at replicating photographs or drawing "realistically", even at the lowest possible resolutions of say 16x16 or 32x32). In addition, by 2013 already there were breakthroughs in CNN, ImageNet classification, other recognitions, although these are specific tasks, they had their "adversarial attacks" weaknesses. Discuss these points. 
 
 
 @@@
@@ -4072,7 +4085,10 @@ Key tasks:
 ...
 
 **Regarding one of the final wrap-ups of Nemo-3: Iliyan was a student in the USA. I was in Bulgaria and my laboratory at the time is displayed as a photograph and in a stylized form in the main volume of "The Prophets of the Thinking Machines" and on the title page of the volume about "The First Modern AI Strategy was Published by an 18-year old Bulgarian and Repeated and Implemented by the Whole World 15-20 Years Later: The Bulgarian Prophecies: How Would I Invest One Million For the Greatest Benefit for the Development of my Country?". These works are available at SIGI-2025 and SIGI-2026 (updated versions).**
+
 * The photograph and the caption is from "Stack Theory is Yet Another Fork of Theory of Universe and Mind", SIGI-2025: 
 https://www.researchgate.net/publication/398934575_Stack_Theory_is_yet_another_Fork_of_Theory_of_Universe_and_Mind_-_Appendix_Volume_to_The_Prophets_of_the_Thinking_Machines_Artificial_General_Intelligence_and_Transhumanism_History_Theory_and_Pioneers
-and SIGI-2025: https://github.com/twenkid/sigi-2025
-#### Did you know, that the generative AI paradigm as general prediction in any modalities via algorithmic probability ("Creativity is imitation at the level of algorithms", 2003), the multi-modality, predictive coding, next-token prediction, world-models, "neuro-symbolic", intelligence as generalization; both scaling to more data as a key to higher intelligence and higher intelligence as the most sample-efficient learning and the ultimate goal of "embryo-of-AGI" (self-improving general intelligence) were already clearly defined in the early 2000s in a body of work by a teenager; and a friend of his explained the essential features of the transformer in February 2005? ... [Refine]
+
+Find the books at SIGI-2025: https://github.com/twenkid/sigi-2025 and SIGI-2026: https://github.com/twenkid/sigi-2026
+
+//28.9.2026: Corrections of a few more typos, style, prepositions; I added the mentioned stylized title-page picture from the original "AGI Laboratory" that predicted the AGI revolution in the heading of the paper.
