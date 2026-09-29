@@ -985,7 +985,7 @@ It is a **Catalyst**. It lowers **Activation Energy** for reactions (Ideas $\to$
 @@@
 
 ### Todor: QUESTION 6: 
-#### IMO "One-person unicorn" is a nonsense or a "bubble value" - no real coverage. Who of the existing "sharks" and "mastodons" will allow some new "lone-wolf" to bite such a big loaf of their bread without being sanctioned or literally destroyed before that? Also, how he would protect whatever he has? For example in a story where he is a billionaire and a million of other persons around him are just a "Kilo-naires" - having a net-worth of "$1K". The other persons are agents with will, possible actions, some of them addressed at the "unicorn". This "unicorn" can protect or justify his 1 million stronger financial and causal power only if he is tightly coupled and connected with other structures, e.g. the state, the existing fellow billionaires and soon - trillionaires, who have their armies, police, laws and trained agents who are already working for them. What do you think? Generate 6 scenarios for "one-man unicorns" - how they were born and how the society, legislations, law, finance will change. 
+#### IMO "One-person unicorn" is a nonsense or a "bubble value" - no real coverage. Who of the existing "sharks" and "mastodons" will allow some new "lone-wolf" to bite such a big loaf of their bread without being sanctioned or literally destroyed before that? Also, how he would protect whatever he has? For example in a story where he is a billionaire and a million of other persons around him are just "Kilo-naires" - having a net-worth of "$1K". The other persons are agents with will, possible actions, some of them addressed at the "unicorn". This "unicorn" can protect or justify his 1 million stronger financial and causal power only if he is tightly coupled and connected with other structures, e.g. the state, the existing fellow billionaires and soon - trillionaires, who have their armies, police, laws and trained agents who are already working for them. What do you think? Generate 6 scenarios for "one-man unicorns" - how they were born and how the society, legislations, law, finance will change. 
 
 @@@
 
@@ -997,7 +997,9 @@ Task: Generate 6 realistic scenarios for "One-Person Unicorns" focusing on:
 2.  Survival mechanism (how they avoid destruction).
 3.  Structural changes to society/law/finance.
 4.  The "Kilo-naire" vs "Unicorn" power dynamic.
+
 [Answer]
+
 You have identified the **Fatal Flaw in the "Solopreneur AGI" Fantasy**: **Power is not Intelligence. Power is the Monopoly on Violence (State) and the Monopoly on Capital/Coordination (Corporation).**
 
 A "One-Person Unicorn" ($1B+ valuation/revenue, 1 human) is not a **business**; it is a **High-Value Asset with Zero Defensibility**.
