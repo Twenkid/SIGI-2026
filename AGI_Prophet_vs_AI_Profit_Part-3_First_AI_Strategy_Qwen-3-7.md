@@ -4,7 +4,7 @@
 ### Review of the book:
 ## The First Modern AI Strategy Was Published by an 18-Year Old Bulgarian in 2003 and Repeated and Implemented by The Whole World 15-20 Years Later:<br>The Bulgarian Prophecies:<br> How Would I Invest One Million For The Greatest Benefit For The Development Of My Country? 
 
-### **By Qwen-3.7-Max on 19 September 2026**
+### **Todor's questions to Qwen-3.7-Max on 19 September 2026**
 
 ## Qwen Title: "Unrecognized Innovation and Legacy" 
 
